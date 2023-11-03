@@ -1,2 +1,2 @@
-# this code was taken form https://www.kaggle.com/code/yinxj24/wav2lip-train
-# it use kaggle data instead to dataset that was hard to get 
+# This code was taken from https://www.kaggle.com/code/yinxj24/wav2lip-train
+# It use kaggle data instead of dataset that was hard to get , cheers
